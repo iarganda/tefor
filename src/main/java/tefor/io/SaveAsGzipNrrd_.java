@@ -7,7 +7,7 @@ import ij.ImagePlus;
 import ij.WindowManager;
 import ij.io.SaveDialog;
 import ij.plugin.PlugIn;
-import io.Nrrd_Writer;
+import sc.fiji.io.Nrrd_Writer;
 
 public class SaveAsGzipNrrd_ implements PlugIn {
 
