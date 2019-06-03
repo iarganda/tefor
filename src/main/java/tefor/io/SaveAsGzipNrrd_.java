@@ -8,7 +8,9 @@ import ij.WindowManager;
 import ij.io.SaveDialog;
 import ij.plugin.PlugIn;
 import sc.fiji.io.Nrrd_Writer;
-
+/**
+ * Plugin to save images as compressed NRRD files.
+ */
 public class SaveAsGzipNrrd_ implements PlugIn {
 
 	@Override
